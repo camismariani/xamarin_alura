@@ -3,26 +3,31 @@
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
     <BreakpointStore />
   </MonoDevelop.Ide.DebuggingService.Breakpoints>
-  <MonoDevelop.Ide.ItemProperties.xamarin-alura.Android PreferredExecutionTarget="Android.Android_10" FirstBuild="True" />
+  <MonoDevelop.MonoDroid LastDeploySdkVersion="13.2.2.0" />
+  <MonoDevelop.Ide.ItemProperties.xamarin-alura.Android PreferredExecutionTarget="Android.Android_10" />
   <Xamarin.Addins.Core.Project ActiveDebugTarget="Android.Android_10" />
-  <MonoDevelop.Ide.ItemProperties.xamarin-alura FirstBuild="True" />
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
   <MultiItemStartupConfigurations />
-  <MonoDevelop.Ide.Workbench ActiveDocument="xamarin-alura/xamarin-alura/MainPage.xaml">
+  <MonoDevelop.Ide.Workbench ActiveDocument="xamarin-alura/xamarin-alura/MainPage.xaml.cs">
     <Files>
-      <File FileName="xamarin-alura/xamarin-alura/MainPage.xaml.cs" />
-      <File FileName="xamarin-alura/xamarin-alura/MainPage.xaml" Line="9" Column="17" />
+      <File FileName="xamarin-alura/xamarin-alura/MainPage.xaml.cs" Line="32" Column="55" />
+      <File FileName="xamarin-alura/xamarin-alura/MainPage.xaml" Line="14" Column="60" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
-          <Node name="xamarin-alura">
+          <Node name="xamarin-alura" expanded="True">
             <Node name="xamarin-alura">
-              <Node name="MainPage.xaml" selected="True" />
+              <Node name="MainPage.xaml" expanded="True">
+                <Node name="MainPage.xaml.cs" selected="True" />
+              </Node>
             </Node>
             <Node name="xamarin-alura.Android" expanded="True" />
           </Node>
         </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State />
       </Pad>
     </Pads>
   </MonoDevelop.Ide.Workbench>

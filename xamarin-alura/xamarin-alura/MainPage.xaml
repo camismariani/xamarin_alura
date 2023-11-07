@@ -3,26 +3,17 @@
              xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
              x:Class="xamarin_alura.MainPage">
 
-    <Grid BackgroundColor="#2196F3" VerticalOptions="Start"> <!-- uso de grid para ajustar os
-        dados na tela, não necessariamente em formato tabular
-        VerticalOptions: -->
-        <Grid.ColumnDefinitions>
-            <ColumnDefinition></ColumnDefinition>
-            <ColumnDefinition></ColumnDefinition>
-        </Grid.ColumnDefinitions>
-        <Grid.RowDefinitions>
-            <RowDefinition></RowDefinition>
-            <RowDefinition></RowDefinition>
-            <RowDefinition></RowDefinition>
-        </Grid.RowDefinitions>
-        
-        <Label Grid.Row="0" Grid.Column="0" Text="Gol bolinha"/>
-        <Label Grid.Row="1" Grid.Column="1" Text="25000"/>
-        <Label Grid.Row="2" Grid.Column="0" Text="Fusca"/>
-        <Label Grid.Row="0" Grid.Column="1" Text="3500"/>
-        <Label Grid.Row="1" Grid.Column="0" Text="Jeep"/>
-        <Label Grid.Row="2" Grid.Column="1" Text="100000"/>
-    </Grid>
+    <ListView x:Name="listViewVeiculos" ItemsSource="{Binding Veiculos}" BackgroundColor="#2196F3">
+      <ListView.ItemTemplate>
+          <DataTemplate>
+              <ViewCell>
+                  <ViewCell.View>
+                      <Label Text="{Binding Nome}"></Label>
+                  </ViewCell.View>
+              </ViewCell>
+          </DataTemplate>
+      </ListView.ItemTemplate>
+    </ListView>
 
 </ContentPage>
 

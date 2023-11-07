@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 25.0.1706.6
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "xamarin-alura.Android", "xamarin-alura\xamarin-alura.Android\xamarin-alura.Android.csproj", "{141590F4-80F5-4FF7-A156-6DD0B35C177D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "xamarin-alura", "xamarin-alura\xamarin-alura\xamarin-alura.csproj", "{4590B9E9-D14E-4DDB-9342-812151C50FAF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{141590F4-80F5-4FF7-A156-6DD0B35C177D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{141590F4-80F5-4FF7-A156-6DD0B35C177D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{141590F4-80F5-4FF7-A156-6DD0B35C177D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{141590F4-80F5-4FF7-A156-6DD0B35C177D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4590B9E9-D14E-4DDB-9342-812151C50FAF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4590B9E9-D14E-4DDB-9342-812151C50FAF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4590B9E9-D14E-4DDB-9342-812151C50FAF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4590B9E9-D14E-4DDB-9342-812151C50FAF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B4907903-AA7D-4E3F-B854-0CFD6ACC9BF3}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,28 @@
+﻿<Properties StartupConfiguration="{141590F4-80F5-4FF7-A156-6DD0B35C177D}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="xamarin-alura/xamarin-alura/MainPage.xaml">
+    <Files>
+      <File FileName="xamarin-alura/xamarin-alura/MainPage.xaml.cs" />
+      <File FileName="xamarin-alura/xamarin-alura/MainPage.xaml" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="xamarin-alura" expanded="True">
+            <Node name="xamarin-alura" expanded="True">
+              <Node name="MainPage.xaml" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.xamarin-alura.Android PreferredExecutionTarget="Android.Android_10" FirstBuild="True" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.xamarin-alura FirstBuild="True" />
+  <Xamarin.Addins.Core.Project ActiveDebugTarget="Android.Android_10" />
+</Properties>

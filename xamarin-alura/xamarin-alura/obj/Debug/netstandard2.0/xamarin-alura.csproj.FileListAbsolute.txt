@@ -1,0 +1,15 @@
+/Users/camilamariani/Documents/pessoal/xamarin-alura/xamarin-alura/xamarin-alura/obj/Debug/netstandard2.0/xamarin-alura.csproj.AssemblyReference.cache
+/Users/camilamariani/Documents/pessoal/xamarin-alura/xamarin-alura/xamarin-alura/obj/Debug/netstandard2.0/xamarin-alura.GeneratedMSBuildEditorConfig.editorconfig
+/Users/camilamariani/Documents/pessoal/xamarin-alura/xamarin-alura/xamarin-alura/bin/Debug/netstandard2.0/xamarin-alura.deps.json
+/Users/camilamariani/Documents/pessoal/xamarin-alura/xamarin-alura/xamarin-alura/bin/Debug/netstandard2.0/xamarin-alura.dll
+/Users/camilamariani/Documents/pessoal/xamarin-alura/xamarin-alura/xamarin-alura/bin/Debug/netstandard2.0/ref/xamarin-alura.dll
+/Users/camilamariani/Documents/pessoal/xamarin-alura/xamarin-alura/xamarin-alura/bin/Debug/netstandard2.0/xamarin-alura.pdb
+/Users/camilamariani/Documents/pessoal/xamarin-alura/xamarin-alura/xamarin-alura/obj/Debug/netstandard2.0/App.xaml.g.cs
+/Users/camilamariani/Documents/pessoal/xamarin-alura/xamarin-alura/xamarin-alura/obj/Debug/netstandard2.0/MainPage.xaml.g.cs
+/Users/camilamariani/Documents/pessoal/xamarin-alura/xamarin-alura/xamarin-alura/obj/Debug/netstandard2.0/xamarin-alura.AssemblyInfoInputs.cache
+/Users/camilamariani/Documents/pessoal/xamarin-alura/xamarin-alura/xamarin-alura/obj/Debug/netstandard2.0/xamarin-alura.AssemblyInfo.cs
+/Users/camilamariani/Documents/pessoal/xamarin-alura/xamarin-alura/xamarin-alura/obj/Debug/netstandard2.0/xamarin-alura.csproj.CoreCompileInputs.cache
+/Users/camilamariani/Documents/pessoal/xamarin-alura/xamarin-alura/xamarin-alura/obj/Debug/netstandard2.0/XamlC.stamp
+/Users/camilamariani/Documents/pessoal/xamarin-alura/xamarin-alura/xamarin-alura/obj/Debug/netstandard2.0/xamarin-alura.dll
+/Users/camilamariani/Documents/pessoal/xamarin-alura/xamarin-alura/xamarin-alura/obj/Debug/netstandard2.0/refint/xamarin-alura.dll
+/Users/camilamariani/Documents/pessoal/xamarin-alura/xamarin-alura/xamarin-alura/obj/Debug/netstandard2.0/xamarin-alura.pdb
